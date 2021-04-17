@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi👋 , I'm Dogus</h1>
+<h3 align="center">Junior iOS Developer 🚀 </h3>
 
-<!--
-**kaynakdgs/kaynakdgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![trophy](https://github-profile-trophy.vercel.app/?username=kaynakdgs)](https://github.com/kaynakdgs/github-profile-trophy)
+- 🔭 I’m currently working on iOS Programming.
+- 🌱 I’m currently learning Swift language.
+<h3>📫 How to reach me:</h3>
 
-Here are some ideas to get you started:
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dogus-kaynak/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynakdgs&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kaynakdgs&count_private=true&show_icons=true&include_all_commits=true)
+
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
