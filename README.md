@@ -10,7 +10,7 @@
 
 <h3>Languages:</h3>
 
-<img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+<p align="left"> <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaynakdgs&hide=TeX&layout=compact)
 
