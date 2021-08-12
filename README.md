@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋 , I'm Dogus</h1>
-<h3 align="center">Junior iOS Developer 🚀 </h3>
+<h3 align="center">iOS Developer 🚀 </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaynakdgs)](https://github.com/kaynakdgs/github-profile-trophy)
 - 🔭 I’m currently working on iOS Programming.
