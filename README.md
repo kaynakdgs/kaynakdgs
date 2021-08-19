@@ -3,7 +3,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kaynakdgs)](https://github.com/kaynakdgs/github-profile-trophy)
 - 🔭 I’m currently working on iOS Programming.
-- 🌱 I’m currently learning Swift language.
+- 🌱 I’m currently using Swift language.
 <h3>📫 How to reach me:</h3>
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dogus-kaynak/)
